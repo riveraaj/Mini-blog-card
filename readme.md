@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://riveraaj.github.io/mini-blog-card">
+    <a href="https://riveraaj.github.io/Mini-blog-card">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/xobQBuf8zWWmiYMIAZe0">
+    <a href="https://devchallenges.io/challenge/27">
       Challenge
     </a>
   </h3>
@@ -27,9 +27,9 @@
 
 ## Overview
 
-![screenshot](https://raw.githubusercontent.com/riveraaj/Edie-Homepage/main/asset/img/proto.png)
+![screenshot](https://raw.githubusercontent.com/riveraaj/Mini-blog-card/main/assets/img/proto.png)
 
-- You can see the page in the following link: https://riveraaj.github.io/mini-blog-card/
+- You can see the page in the following link: https://riveraaj.github.io/Mini-blog-card/
 - In this small project I was able to improve good practices in CSS3, layout and structure in HTML5.
 
 ### Built With
