@@ -70,7 +70,7 @@ ol {
 /* ****** Card ****** */
 .card {
     max-width: calc(21rem + 2rem);
-    margin: auto;
+    margin: .5rem auto;
     padding: 0 1rem;
     margin-top: 10.25rem;
     border-radius: .8rem;
